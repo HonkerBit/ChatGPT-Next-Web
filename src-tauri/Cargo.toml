@@ -5,7 +5,7 @@ description = "A cross platform app for LLM ChatBot."
 authors = ["Yidadaa"]
 license = "mit"
 repository = ""
-default-run = "nextchat"
+default-run = "ChatGPT"
 edition = "2021"
 rust-version = "1.60"
 
