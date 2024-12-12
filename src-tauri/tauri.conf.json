@@ -8,7 +8,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "NextChat",
+    "productName": "HackBitのChatGPT",
     "version": "2.15.2"
   },
   "tauri": {
@@ -82,7 +82,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "NextChat App",
+      "shortDescription": "HackBitのChatGPT",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
@@ -95,9 +95,9 @@
       "dangerousUseHttpScheme": true
     },
     "updater": {
-      "active": true,
+      "active": false,
       "endpoints": [
-        "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/latest/download/latest.json"
+        ""
       ],
       "dialog": false,
       "windows": {
@@ -110,7 +110,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "NextChat",
+        "title": "HackBitのChatGPT",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"
